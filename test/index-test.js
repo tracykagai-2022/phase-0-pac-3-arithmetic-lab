@@ -6,7 +6,7 @@ beforeEach(function() {
 })
 
 describe('basic math functions', function () {
-  it("'add()' is a valid function", function() {
+  it ("'add()' is a valid function", function() {
     expect(add).toExist
   })
 
